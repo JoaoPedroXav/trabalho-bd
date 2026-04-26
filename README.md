@@ -47,9 +47,6 @@ Configuração do Banco de Dados
 - LEFT JOIN: Lista todos os casos clínicos cadastrados, incluindo os que ainda não receberam nenhuma resposta, com total de respostas e média das notas
 
 
-## 📺 Vídeo Demonstrativo
-👉 ASSISTIR VÍDEO NO YOUTUBE/DRIVE
-
 ## 👤 Autor
 
 Aluno: João Pedro Melo Xavier — Centro Universitário Santo Agostinho (UNIFSA)
